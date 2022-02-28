@@ -40,10 +40,10 @@ int main() {
 	cout << "Enter the rectangle width : ";
 	cin >> r1.width;
 
-	cout << "Enter the yard rectangle length : ";
+	cout << "Enter yard rectangle length : ";
 	cin >> r2.length;
 
-	cout << "Enter the yard rectangle width : ";
+	cout << "Enter yard rectangle width : ";
 	cin >> r2.width;
 
 	cout << "Enter the squre length : ";
